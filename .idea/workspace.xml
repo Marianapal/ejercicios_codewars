@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0491fb94-7b34-4d55-a5cd-0bc8d08875ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kata1/BuyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kata1/BuyCarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../allure.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/features/busquedaGoogle.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/pages/GoogleHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/pages/grupo2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/steps/GoogleSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/TestDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/atc01_POM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_AV_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_AV_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_AV_03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_AV_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_AV_05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_AV_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_HT_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_HT_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_HT_03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_HT_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_HT_05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_HT_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_TR_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_TR_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_TR_03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_TR_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_TR_05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testcreation/testcases/grupo2/CP_TR_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/aut/testplan/sprint/GoogleTestRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/framework/engine/bdd/CucumberBaseTestRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/framework/engine/selenium/DriverFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/framework/engine/selenium/SeleniumTestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/framework/engine/selenium/SeleniumWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/framework/engine/utils/AllureReportUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/framework/engine/utils/ApiSpecUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/framework/engine/utils/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/framework/engine/utils/LoadProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/framework/engine/utils/grupo2/Rumbo_Base.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/framework/testing/features/cucumberConexionTest.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/framework/testing/steps/FrameworkSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/framework/testing/testcases/OpenAllWebBrowser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/resources/config.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2XUljHl6T56h48fMwLtqWMA2EJr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/mariana.palavecino/Desktop/Mariana/BOOTCAMP/DOMINGO/Desafio_Bootcamp_Tsoft",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ejercicio_buyingCar [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ejercicio_buyingCar [test]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0491fb94-7b34-4d55-a5cd-0bc8d08875ad" name="Changes" comment="" />
+      <created>1698671174268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698671174268</updated>
+    </task>
+    <servers />
+  </component>
+</project>
